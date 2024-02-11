@@ -17,3 +17,9 @@ In the following order:
 - Establishing the connection (3-step handshaking)
 - Data transfer
 - End of connection
+
+# Trojan Horse demonstration video
+
+Here's a link to an unlisted youtube video I produced to show you how the trojan works and its effectiveness in a test on virustotal :
+
+https://www.youtube.com/watch?v=7CeaLLxM74U
