@@ -1,7 +1,7 @@
 # Trojan horse 
 
 Hi, I'm Paul!
-In this repository, I'll show you how to create and use a detroie horse. 
+In this repository, I'll show you how to create and use a trojan horse. 
 
 We're going to create an example of a Trojan horse. The victim will be a Windows 10 machine, on which we'll install the server module programmed in C.
 On our attacking machine, we'll have the Client module, which will be programmed in Python. We'll be using a Kali Linux operating system based on a Debian OS.
